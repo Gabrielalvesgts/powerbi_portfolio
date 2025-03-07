@@ -25,4 +25,4 @@ Este projeto analisa as vendas de uma empresa ao longo do tempo, identificando t
 ## 📷 Preview do Dashboard
 ![Dashboard Preview]([link_para_sua_imagem](https://github.com/Gabrielalvesgts/powerbi_portfolio/blob/main/Captura%20de%20tela%202025-03-07%20091227.png?raw=true))
 
-🔗 **[Baixe o arquivo .pbix aqui]([link_do_arquivo](https://app.powerbi.com/groups/me/reports/50f2e064-d1de-459e-bbc3-159e06a7ed7c/76b9c95e09b5b7ea91ae?experience=power-bi))**  
+🔗 **[Baixe o arquivo .pbix aqui](https://github.com/Gabrielalvesgts/powerbi_portfolio/blob/main/1%C2%BA%20RELAT%C3%93RIO%20DE%20VENDAS%202018.pbix))**  
